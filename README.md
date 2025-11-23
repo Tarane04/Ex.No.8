@@ -100,8 +100,8 @@ Here is the generated image already produced by the model:
 
 **Generated Image:**
 *(This is the model result based on the refined prompt)*
+![Uploading image.png…]()
 
-![Generated Penguin Image](sandbox:/mnt/data/A_photograph_captures_three_Emperor_penguin_chicks.png)
 
 ---
 
